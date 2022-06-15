@@ -1,0 +1,12 @@
+
+
+build: update-deps
+    ...
+    loko fix
+
+shell:
+    @echo "Hello there!"
+
+
+build [-v --verbose] [-a --all] target:
+    if -v
