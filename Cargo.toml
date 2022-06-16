@@ -4,10 +4,13 @@ description = "Task scripting"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+license-file = "LICENSE.txt"
 documentation = "https://docs.rs/loko"
 repository = "https://github.com/orreksu/loko"
 homepage = "https://github.com/orreksu/loko"
 readme = "README.md"
+keywords = ["task", "automation"]
+categories = ["development-tools"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
